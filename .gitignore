@@ -1,0 +1,5 @@
+automation-selenium.iml
+*.class
+.idea
+*.classpath
+target
